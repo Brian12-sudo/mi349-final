@@ -18,6 +18,9 @@ body{
     h2{
     font-size: 2.2em;
     }
+    #leia{
+        color: yellow;
+        }
     
     #galaxy {
         color: yellow;
@@ -26,8 +29,4 @@ body{
     .burndown{
         background-color: #424242;
         padding: 10px;
-    }
-
-    #leia{
-color: yellow;
     }
