@@ -20,7 +20,6 @@ body{
     }
     #leia{
         color: yellow;
-        -ms-perspective-origin-y: left;
         }
     #meanwhile{
         color: yellow;
