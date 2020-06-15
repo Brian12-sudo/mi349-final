@@ -17,6 +17,7 @@ body{
     
     h2{
     font-size: 2.2em;
+    object-position: top;
     }
     #leia{
         color: yellow;
