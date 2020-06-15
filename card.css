@@ -42,8 +42,11 @@ body{
         color: yellow;
     }
     .box {
-        image-orientation: left;
+        float: left;
         width: 150px;
         height: 150px;
         margin-right: 30px;
+    }
+    img{
+        width: 100%;
     }
