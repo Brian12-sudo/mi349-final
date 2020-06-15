@@ -42,7 +42,7 @@ body{
         color: yellow;
     }
     .box {
-        float: left;
+        image-orientation: left;
         width: 150px;
         height: 150px;
         margin-right: 30px;
