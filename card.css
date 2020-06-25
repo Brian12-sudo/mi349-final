@@ -1,23 +1,13 @@
 body{
-    background: black;
+    background: lightblue;
     color: #ffffff;
     padding: 50px;
     font-family: Helvetica;
     }
     
     h1{
-    color: yellow;
+    color:black;
     font-size: 3em;
     padding-bottom: 5px;
-    border-bottom: 3px solid yellow;
-    }
-    
-    h2{
-        font-size: 2em;
-    }
-    #service{
-        color: yellow;
-    }
-    #jedi-symbol{
-        width: 50px;
+    border-bottom: 3px solid black;
     }
