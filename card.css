@@ -28,10 +28,10 @@ body{
         padding: 10px;
         border-radius: 5px;
     }
-    #text-body{
-        color: black;
-    }
+
+    
     p {
+        color: black;
         line-height: 2;
         word-spacing: 0.1rem;
     }
