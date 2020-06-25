@@ -25,8 +25,18 @@ body{
         margin-right: 30px;
     }
     #cas-logo{
-        width: 100px;
+        width: 300px;
     }
     #text-body{
         color: black;
+    }
+    p {
+        line-height: 2;
+        word-spacing: 0.1rem;
+    }
+    .box {
+        background-color: rgb(207,232,220);
+        border: 2px solid rgb(79,185,227);
+        padding: 10px;
+        border-radius: 5px;
     }
