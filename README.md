@@ -4,3 +4,4 @@ Obtained Emperor image from this link: https://www.inverse.com/article/62375-ris
 Obtained Leia image from this link: https://www.cinemablend.com/news/2484099/carrie-fishers-leia-organa-was-originally-going-to-be-the-rise-of-skywalkers-last-jedi
 Obtained Kylo image from this link: https://www.inverse.com/entertainment/star-wars-rise-skywalker-kylo-ren-mustafar
 Refrence Site: "https://starwarsintrocreator.kassellabs.io/" 
+Jedi-Symbol obtained from: https://www.aliexpress.com/i/32838871131.html
