@@ -1,6 +1,6 @@
 body{
     background: lightgrey;
-    background-image: cross-fade(background-art);
+    background-image: url(http://www.cal.msu.edu/criticaldiversity/phase1/literarystudies);
     color: #ffffff;
     padding: 50px;
     font-family: Helvetica;
