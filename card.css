@@ -12,7 +12,7 @@ h1{
     font-size: 3em;
     border-bottom: 5px solid black;
     padding: 5px;
-    border-width: 2px;
+    border-radius: 3em;
 }
 p {
     color: black;
