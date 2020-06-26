@@ -18,8 +18,8 @@ p {
     word-spacing: 0.1rem;
 }
 .box {
-    background-color: lightgreen;
-    border: 2px solid green;
+    background-color: green;
+    border: 2px solid lightgreen;
     padding: 10px;
     border-radius: 5px;
 }
