@@ -17,6 +17,7 @@ p {
     color: black;
     line-height: 2;
     word-spacing: 0.1rem;
+    font-size: 2em;
 }
 .box {
     background-color: rgb(7, 182, 7);
