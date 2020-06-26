@@ -28,7 +28,7 @@ p {
     
 .box {
     float: left;
-    size: auto;
+    width: 150px;
     margin-right: 30px;
 }
 h2{
