@@ -21,7 +21,7 @@ p {
 }
 .box {
     background-color: rgb(14, 176, 78);
-    border: 6px solid green;
+    border: 6px solid rgb(24, 69, 59);
     padding: 10px;
     border-radius: 5px;
 }
