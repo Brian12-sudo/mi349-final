@@ -13,7 +13,7 @@ body{
 h1{
     color:whitesmoke;
     font-size: 3em;
-    border-bottom: 5px solid whitesmoke;
+    border-bottom: 5px solid lightgray;
     padding: 5px;
     border-bottom-style: dotted;
 }
