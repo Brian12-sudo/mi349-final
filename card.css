@@ -20,7 +20,7 @@ p {
     font-size: 1.5em;
 }
 .box {
-    background-color:lightgreen;
+    background-color: rgb(14, 176, 78);
     border: 6px solid green;
     padding: 10px;
     border-radius: 5px;
