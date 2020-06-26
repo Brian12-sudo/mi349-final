@@ -19,7 +19,7 @@ p {
 }
 .box {
     background-color: lightgreen;
-    border: 2px solid lightgreen;
+    border: 2px solid green;
     padding: 10px;
     border-radius: 5px;
 }
