@@ -1,6 +1,7 @@
 body{
     background: lightgrey;
     background-image: url(background-art.png);
+    background-blend-mode: exclusion;
     color: #ffffff;
     padding: 50px;
     font-family: Helvetica;
