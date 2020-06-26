@@ -12,7 +12,7 @@ h1{
     font-size: 3em;
     border-bottom: 5px solid black;
     padding: 5px;
-    border-bottom-style: inherit;
+    border-bottom-style: groove;
 }
 p {
     color: black;
