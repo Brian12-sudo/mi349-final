@@ -40,6 +40,6 @@ h2{
     font-size: 2.2em;
     border-bottom: 4px solid whitesmoke;
     padding: 5px;
-    border-bottom-style: inset;
+    border-bottom-style: initial;
 }
 
