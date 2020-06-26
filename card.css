@@ -23,8 +23,8 @@ p {
     font-size: 1.5em;
 }
 .box {
-    background-color: rgb(14, 176, 78);
-    border: 6px solid rgb(24, 69, 59);
+    background-color: rgb(24, 69, 59);
+    border: 6px solid whitesmoke;
     padding: 10px;
     border-radius: 5px;
 }
